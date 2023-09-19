@@ -1,0 +1,13 @@
+Hvordan sette opp tailwind utenfor frameworks. IKKE OPTIMALT fordi feil kan skje:
+
+
+1. Sett opp CDN script:  <script src="https://cdn.tailwindcss.com"></script> i header
+2. Lag en tailwind.config.js fil (trenger ikke være noe i denne for at intellisense skal fungere)
+3. Installer Tailwind CSS intellisense
+4. DONE!
+
+Hva er CDN?
+
+CDN står for Content Delivery Network. Det er et nettverk av distribuerte servere strategisk plassert i ulike datasentre rundt om i verden. 
+Den primære hensikten med en CDN er å levere webinnhold, som HTML-sider, CSS-stilark, JavaScript-filer, bilder, videoer og andre ressurser, 
+til brukere på en mer effektiv og pålitelig måte.
